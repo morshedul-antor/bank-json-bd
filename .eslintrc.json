@@ -1,0 +1,10 @@
+{
+    "extends": ["react-app", "prettier"],
+    "plugins": ["prettier"],
+    "parser": "@babel/eslint-parser",
+    "rules": {
+        "no-console": "warn",
+        "prettier/prettier": ["warn", { "printWidth": 120 }],
+        "react/react-in-jsx-scope": "off"
+    }
+}

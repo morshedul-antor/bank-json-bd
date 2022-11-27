@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --background: rgb(236, 242, 245);
+    --primary: rgb(255, 255, 255);
+    --text: rgb(37, 35, 35);
+    --blue: #3874bd;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}

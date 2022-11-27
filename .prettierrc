@@ -1,0 +1,11 @@
+{
+    "semi": false,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "arrowParens": "always",
+    "jsxBracketSameLine": true,
+    "printWidth": 120,
+    "importOrder": ["^@core/(.*)$", "^@server/(.*)$", "^@ui/(.*)$", "^[./]"],
+    "importOrderSeparation": false,
+    "experimentalBabelParserPluginsList": ["jsx", "typescript"]
+}
