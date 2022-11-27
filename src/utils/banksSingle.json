@@ -1,0 +1,607 @@
+{
+    "id": "claymybhs002wxbcwihfrotwo",
+    "name": "The City Bank Ltd.",
+    "branches": [
+        {
+            "id": "claymzres02soxbcwqskkp7uf",
+            "name": "Barisal",
+            "district": "Barishal",
+            "routingNumber": "225060283"
+        },
+        {
+            "id": "claymzres02spxbcw4c6hkt7w",
+            "name": "Bogra",
+            "district": "Bogra",
+            "routingNumber": "225100372"
+        },
+        {
+            "id": "claymzres02sqxbcwc51fsxmr",
+            "name": "Sherpur",
+            "district": "Bogra",
+            "routingNumber": "225102741"
+        },
+        {
+            "id": "claymzres02srxbcw3szymr2i",
+            "name": "Brahmanbaria",
+            "district": "Brahmanbaria",
+            "routingNumber": "225120431"
+        },
+        {
+            "id": "claymzres02ssxbcwcewd5qvq",
+            "name": "Chandpur",
+            "district": "Chandpur",
+            "routingNumber": "225130313"
+        },
+        {
+            "id": "claymzres02stxbcw2ddo6p9k",
+            "name": "Hajiganj",
+            "district": "Chandpur",
+            "routingNumber": "225130889"
+        },
+        {
+            "id": "claymzres02suxbcw75zk6c28",
+            "name": "Kachua",
+            "district": "Chandpur",
+            "routingNumber": "225130913"
+        },
+        {
+            "id": "claymzres02svxbcwxmldfwjl",
+            "name": "Agrabad",
+            "district": "Chittagong",
+            "routingNumber": "225150135"
+        },
+        {
+            "id": "claymzres02swxbcwn094hgib",
+            "name": "Anderkilla",
+            "district": "Chittagong",
+            "routingNumber": "225150469"
+        },
+        {
+            "id": "claymzres02sxxbcwm9s5c14u",
+            "name": "Bandartila",
+            "district": "Chittagong",
+            "routingNumber": "225150948"
+        },
+        {
+            "id": "claymzres02syxbcwlte91jcd",
+            "name": "Bhatiary SME",
+            "district": "Chittagong",
+            "routingNumber": "225151226"
+        },
+        {
+            "id": "claymzres02szxbcwsz23zsrl",
+            "name": "Chawk Bazar",
+            "district": "Chittagong",
+            "routingNumber": "225151934"
+        },
+        {
+            "id": "claymzret02t0xbcwi51edq6t",
+            "name": "Fatikchhari",
+            "district": "Chittagong",
+            "routingNumber": "225152746"
+        },
+        {
+            "id": "claymzret02t1xbcwqcvqappu",
+            "name": "Halishahar",
+            "district": "Chittagong",
+            "routingNumber": "225153161"
+        },
+        {
+            "id": "claymzret02t2xbcwqgtfs1s5",
+            "name": "Jubilee Road",
+            "district": "Chittagong",
+            "routingNumber": "225153640"
+        },
+        {
+            "id": "claymzret02t3xbcwsg32lyny",
+            "name": "Kadamtali",
+            "district": "Chittagong",
+            "routingNumber": "225153732"
+        },
+        {
+            "id": "claymzret02t4xbcwp9ek8pvv",
+            "name": "Khatunganj",
+            "district": "Chittagong",
+            "routingNumber": "225154278"
+        },
+        {
+            "id": "claymzret02t5xbcw5mj6rtki",
+            "name": "Lohagara SME",
+            "district": "Chittagong",
+            "routingNumber": "225154678"
+        },
+        {
+            "id": "claymzret02t6xbcwmp9fvmpz",
+            "name": "O.r. Nizam Road",
+            "district": "Chittagong",
+            "routingNumber": "225155806"
+        },
+        {
+            "id": "claymzret02t7xbcwxs6g28s8",
+            "name": "Oxygen Mour",
+            "district": "Chittagong",
+            "routingNumber": "225155877"
+        },
+        {
+            "id": "claymzret02t8xbcwxzy7wr8i",
+            "name": "Pahartali",
+            "district": "Chittagong",
+            "routingNumber": "225155927"
+        },
+        {
+            "id": "claymzret02t9xbcw4bmwmbts",
+            "name": "Patherhat",
+            "district": "Chittagong",
+            "routingNumber": "225156139"
+        },
+        {
+            "id": "claymzret02taxbcwqu2p5y3t",
+            "name": "Prabartak",
+            "district": "Chittagong",
+            "routingNumber": "225156326"
+        },
+        {
+            "id": "claymzret02tbxbcw6zmq6775",
+            "name": "Satkania",
+            "district": "Chittagong",
+            "routingNumber": "225157062"
+        },
+        {
+            "id": "claymzret02tcxbcwfhm6hpor",
+            "name": "Chouddagram",
+            "district": "Comilla",
+            "routingNumber": "225191060"
+        },
+        {
+            "id": "claymzret02tdxbcwldbuyttf",
+            "name": "Comilla",
+            "district": "Comilla",
+            "routingNumber": "225191152"
+        },
+        {
+            "id": "claymzret02texbcw0vuv2u2f",
+            "name": "Daulatganj",
+            "district": "Comilla",
+            "routingNumber": "225191549"
+        },
+        {
+            "id": "claymzret02tfxbcwbexx9qcy",
+            "name": "Gouripur",
+            "district": "Comilla",
+            "routingNumber": "225192119"
+        },
+        {
+            "id": "claymzret02tgxbcwdz1idgnr",
+            "name": "Coxs Bazar",
+            "district": "Coxs Bazar",
+            "routingNumber": "225220252"
+        },
+        {
+            "id": "claymzret02thxbcw9chkpxbq",
+            "name": "Ashulia",
+            "district": "Dhaka-North",
+            "routingNumber": "225260225"
+        },
+        {
+            "id": "claymzret02tixbcw5etmr553",
+            "name": "Sonargaon Janapath",
+            "district": "Dhaka-North",
+            "routingNumber": "225260241"
+        },
+        {
+            "id": "claymzret02tjxbcwmkx5y5yc",
+            "name": "Jamuna Future Park",
+            "district": "Dhaka-North",
+            "routingNumber": "225260333"
+        },
+        {
+            "id": "claymzreu02tkxbcwun743k3o",
+            "name": "Banani",
+            "district": "Dhaka-North",
+            "routingNumber": "225260438"
+        },
+        {
+            "id": "claymzreu02tlxbcw05fjghsd",
+            "name": "Banani Lake View",
+            "district": "Dhaka-North",
+            "routingNumber": "225260638"
+        },
+        {
+            "id": "claymzreu02tmxbcwzmm3oq92",
+            "name": "Rokeya Sarani",
+            "district": "Dhaka-North",
+            "routingNumber": "225260991"
+        },
+        {
+            "id": "claymzreu02tnxbcwfdaif0lp",
+            "name": "Dhanmondi",
+            "district": "Dhaka-North",
+            "routingNumber": "225261187"
+        },
+        {
+            "id": "claymzreu02toxbcwmizkk0cw",
+            "name": "Dse Nukunja",
+            "district": "Dhaka-North",
+            "routingNumber": "225261279"
+        },
+        {
+            "id": "claymzreu02tpxbcwhjkq1069",
+            "name": "Gulshan",
+            "district": "Dhaka-North",
+            "routingNumber": "225261729"
+        },
+        {
+            "id": "claymzreu02tqxbcwze0llcj7",
+            "name": "Gulshan Avenue",
+            "district": "Dhaka-North",
+            "routingNumber": "225261732"
+        },
+        {
+            "id": "claymzreu02trxbcw6p7cl8ux",
+            "name": "Karwan Bazar",
+            "district": "Dhaka-North",
+            "routingNumber": "225262531"
+        },
+        {
+            "id": "claymzreu02tsxbcwpootj64y",
+            "name": "Mirpur",
+            "district": "Dhaka-North",
+            "routingNumber": "225262986"
+        },
+        {
+            "id": "claymzreu02ttxbcw0zd3ax5c",
+            "name": "New Market",
+            "district": "Dhaka-North",
+            "routingNumber": "225263527"
+        },
+        {
+            "id": "claymzreu02tuxbcwoxuubvvn",
+            "name": "Pallabi",
+            "district": "Dhaka-North",
+            "routingNumber": "225263585"
+        },
+        {
+            "id": "claymzreu02tvxbcwarxj8oly",
+            "name": "Pragati Sarani",
+            "district": "Dhaka-North",
+            "routingNumber": "225263701"
+        },
+        {
+            "id": "claymzreu02twxbcw75p04jxd",
+            "name": "Savar SME",
+            "district": "Dhaka-North",
+            "routingNumber": "225264100"
+        },
+        {
+            "id": "claymzreu02txxbcwdv56gk5v",
+            "name": "Shyamali",
+            "district": "Dhaka-North",
+            "routingNumber": "225264300"
+        },
+        {
+            "id": "claymzreu02tyxbcwd7y9rnur",
+            "name": "Uttara",
+            "district": "Dhaka-North",
+            "routingNumber": "225264634"
+        },
+        {
+            "id": "claymzreu02tzxbcwtme21en4",
+            "name": "Truncation Point",
+            "district": "Dhaka-South",
+            "routingNumber": "225270002"
+        },
+        {
+            "id": "claymzreu02u0xbcwr2tnzseu",
+            "name": "Ati Bazar Branch",
+            "district": "Dhaka",
+            "routingNumber": "225270349"
+        },
+        {
+            "id": "claymzreu02u1xbcwjls3bg3a",
+            "name": "RTGS-Interbank Forex Transactions",
+            "district": "Dhaka-South",
+            "routingNumber": "225270365"
+        },
+        {
+            "id": "claymzreu02u2xbcw937j6vau",
+            "name": "RTGS-Interbank Local Currency Transactions",
+            "district": "Dhaka-South",
+            "routingNumber": "225270381"
+        },
+        {
+            "id": "claymzreu02u3xbcw4kw9639x",
+            "name": "RTGS-Banks Miscellaneous Payments",
+            "district": "Dhaka-South",
+            "routingNumber": "225270394"
+        },
+        {
+            "id": "claymzreu02u4xbcw8hvift8n",
+            "name": "B.b. Avenue",
+            "district": "Dhaka-South",
+            "routingNumber": "225270431"
+        },
+        {
+            "id": "claymzreu02u5xbcw3fv42bw5",
+            "name": "Bandura Bazar",
+            "district": "Dhaka-South",
+            "routingNumber": "225271151"
+        },
+        {
+            "id": "claymzreu02u6xbcwhd40l361",
+            "name": "Motijheel",
+            "district": "Dhaka-South",
+            "routingNumber": "225271548"
+        },
+        {
+            "id": "claymzreu02u7xbcwpc4a6msu",
+            "name": "Foreign Exchange",
+            "district": "Dhaka-South",
+            "routingNumber": "225272321"
+        },
+        {
+            "id": "claymzreu02u8xbcw5cwjrfi6",
+            "name": "Head Office",
+            "district": "Dhaka-South",
+            "routingNumber": "225272684"
+        },
+        {
+            "id": "claymzreu02u9xbcw021u4dg9",
+            "name": "Imamganj",
+            "district": "Dhaka-South",
+            "routingNumber": "225272800"
+        },
+        {
+            "id": "claymzrev02uaxbcwkvltx3mn",
+            "name": "Islami Banking",
+            "district": "Dhaka-South",
+            "routingNumber": "225272868"
+        },
+        {
+            "id": "claymzrev02ubxbcwjcr6kxiw",
+            "name": "Islampur",
+            "district": "Dhaka-South",
+            "routingNumber": "225272989"
+        },
+        {
+            "id": "claymzrev02ucxbcwsf8i4ncm",
+            "name": "Jatrabari SME",
+            "district": "Dhaka-South",
+            "routingNumber": "225273238"
+        },
+        {
+            "id": "claymzrev02udxbcwsazy9sci",
+            "name": "Johnson Road",
+            "district": "Dhaka-South",
+            "routingNumber": "225273254"
+        },
+        {
+            "id": "claymzrev02uexbcwdmxu51im",
+            "name": "Joypara SME",
+            "district": "Dhaka-South",
+            "routingNumber": "225273296"
+        },
+        {
+            "id": "claymzrev02ufxbcwp0zep1da",
+            "name": "Kaliganj",
+            "district": "Dhaka-South",
+            "routingNumber": "225273467"
+        },
+        {
+            "id": "claymzrev02ugxbcwp9emq6j6",
+            "name": "Moghbazar",
+            "district": "Dhaka-South",
+            "routingNumber": "225274187"
+        },
+        {
+            "id": "claymzrev02uhxbcwtqht90vj",
+            "name": "Mouchak",
+            "district": "Dhaka-South",
+            "routingNumber": "225274361"
+        },
+        {
+            "id": "claymzrev02uixbcwewu6eth7",
+            "name": "Nawabganj",
+            "district": "Dhaka-South",
+            "routingNumber": "225274695"
+        },
+        {
+            "id": "claymzrev02ujxbcwtu5r3awz",
+            "name": "Nawabpur",
+            "district": "Dhaka-South",
+            "routingNumber": "225274729"
+        },
+        {
+            "id": "claymzrev02ukxbcwdp6ozvw0",
+            "name": "Posta",
+            "district": "Dhaka-South",
+            "routingNumber": "225275294"
+        },
+        {
+            "id": "claymzrev02ulxbcwmd7gppgf",
+            "name": "Principal",
+            "district": "Dhaka-South",
+            "routingNumber": "225275357"
+        },
+        {
+            "id": "claymzrev02umxbcw80y85uij",
+            "name": "Sadarghat",
+            "district": "Dhaka-South",
+            "routingNumber": "225275928"
+        },
+        {
+            "id": "claymzrev02unxbcw1matduaj",
+            "name": "Urdu Road",
+            "district": "Dhaka-South",
+            "routingNumber": "225276798"
+        },
+        {
+            "id": "claymzrev02uoxbcw19adwlsg",
+            "name": "Vip Road",
+            "district": "Dhaka-South",
+            "routingNumber": "225276851"
+        },
+        {
+            "id": "claymzrev02upxbcwicvhy4n4",
+            "name": "Zinzira",
+            "district": "Dhaka-South",
+            "routingNumber": "225277092"
+        },
+        {
+            "id": "claymzrev02uqxbcw0cqmd7eh",
+            "name": "Dinajpur",
+            "district": "Dinajpur",
+            "routingNumber": "225280676"
+        },
+        {
+            "id": "claymzrev02urxbcwltjc73d9",
+            "name": "Alfadanga",
+            "district": "Faridpur",
+            "routingNumber": "225290040"
+        },
+        {
+            "id": "claymzrev02usxbcwv26rud9m",
+            "name": "Faridpur",
+            "district": "Faridpur",
+            "routingNumber": "225290529"
+        },
+        {
+            "id": "claymzrev02utxbcwv6z7p301",
+            "name": "Kanaipur",
+            "district": "Faridpur",
+            "routingNumber": "225290916"
+        },
+        {
+            "id": "claymzrev02uuxbcwha2igacl",
+            "name": "Feni",
+            "district": "Feni",
+            "routingNumber": "225300527"
+        },
+        {
+            "id": "claymzrev02uvxbcwmoba0ner",
+            "name": "Gobindaganj",
+            "district": "Gaibandha",
+            "routingNumber": "225320581"
+        },
+        {
+            "id": "claymzrev02uwxbcwl554g66a",
+            "name": "Bagher Bazar",
+            "district": "Gazipur",
+            "routingNumber": "225330184"
+        },
+        {
+            "id": "claymzrev02uxxbcwtd0iphgm",
+            "name": "Gazipur",
+            "district": "Gazipur",
+            "routingNumber": "225330526"
+        },
+        {
+            "id": "claymzrew02uyxbcw9yhmhrpq",
+            "name": "Gazipur SME",
+            "district": "Gazipur",
+            "routingNumber": "225330539"
+        },
+        {
+            "id": "claymzrew02uzxbcwmhogtlju",
+            "name": "Tongi",
+            "district": "Gazipur",
+            "routingNumber": "225331633"
+        },
+        {
+            "id": "claymzrew02v0xbcwvxnyr5rt",
+            "name": "Gopalganj",
+            "district": "Gopalganj",
+            "routingNumber": "225350377"
+        },
+        {
+            "id": "claymzrew02v1xbcwy4xayryd",
+            "name": "Habiganj SME",
+            "district": "Habiganj",
+            "routingNumber": "225360620"
+        },
+        {
+            "id": "claymzrew02v2xbcwegmvjblc",
+            "name": "Jamalpur SME",
+            "district": "Jamalpur",
+            "routingNumber": "225390861"
+        },
+        {
+            "id": "claymzrew02v3xbcw3mcos88m",
+            "name": "Benapole",
+            "district": "Jessore",
+            "routingNumber": "225410288"
+        },
+        {
+            "id": "claymzrew02v4xbcwb3mk04s9",
+            "name": "Jessore",
+            "district": "Jessore",
+            "routingNumber": "225410941"
+        },
+        {
+            "id": "claymzrew02v5xbcw4tpwduh5",
+            "name": "Khulna",
+            "district": "Khulna",
+            "routingNumber": "225471548"
+        },
+        {
+            "id": "claymzrew02v6xbcwbs5oxxq2",
+            "name": "Phultala",
+            "district": "Khulna",
+            "routingNumber": "225472147"
+        },
+        {
+            "id": "claymzrew02v7xbcwng7mmg89",
+            "name": "Bhairab Bazar",
+            "district": "Kishoreganj",
+            "routingNumber": "225480221"
+        },
+        {
+            "id": "claymzrew02v8xbcwky5mqmff",
+            "name": "Kishoreganj SME",
+            "district": "Kishoreganj",
+            "routingNumber": "225480689"
+        },
+        {
+            "id": "claymzrew02v9xbcw0abp8kyk",
+            "name": "Kushtia",
+            "district": "Kushtia",
+            "routingNumber": "225500943"
+        },
+        {
+            "id": "claymzrew02vaxbcwpiilovoj",
+            "name": "Chandraganj",
+            "district": "Lakshmipur",
+            "routingNumber": "225510191"
+        },
+        {
+            "id": "claymzrew02vbxbcwp4rh9nri",
+            "name": "Lakshmipur",
+            "district": "Lakshmipur",
+            "routingNumber": "225510733"
+        },
+        {
+            "id": "claymzrew02vcxbcw71mtyxy4",
+            "name": "Raipur",
+            "district": "Lakshmipur",
+            "routingNumber": "225510975"
+        },
+        {
+            "id": "claymzrew02vdxbcwyvr9vb0c",
+            "name": "Manikganj",
+            "district": "Manikganj",
+            "routingNumber": "225560617"
+        },
+        {
+            "id": "claymzrew02vexbcw9lv1jjlt",
+            "name": "Kulaura",
+            "district": "Moulvi Bazar",
+            "routingNumber": "225580947"
+        },
+        {
+            "id": "claymzrew02vfxbcwwfwa9bhf",
+            "name": "Moulavi Bazar",
+            "district": "Moulvi Bazar",
+            "routingNumber": "225581188"
+        }
+    ],
+    "updatedAt": "2022-11-27T00:41:12.107Z"
+}
